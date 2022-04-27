@@ -15,3 +15,4 @@ Most functions are working
 
 not working：
 iGPU:UHD750(not working)
+ 
