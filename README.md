@@ -1,5 +1,5 @@
 # ASRock-H570M-ITX/AC-Hackintosh
-Hacintosh EFI；
+Hacintosh EFI
 
 CPU:i5-11500（fake 9900K）；
 
@@ -11,7 +11,7 @@ iGPU:UHD750(not working)；
 
 dGPU：XFX RX560 P45V（flashing sapphire rom）；
 
-storage：WD SN550；
+storage：WD SN550 500GB；
 
 Ethernet1：Intel I219V14 PCI Express Gigabit Ethernet；
 
